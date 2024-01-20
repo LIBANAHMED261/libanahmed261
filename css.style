@@ -1,0 +1,46 @@
+body 
+{
+color:white;
+
+
+
+background-color: black;
+
+
+  
+margin: 10% 30% ;
+
+font-family: Arial narrow ;
+}
+
+body
+{
+  background: url(https://www.zingerbug.com/Backgrounds/background_images/starry_sky_glitter_background_seamless.gif);
+  background-size: auto;
+}
+
+.headers 
+{ 
+  text-align: center;
+border-top: 2px solid grey;
+border-bottom: .5px solid grey;
+  }
+
+.jobtitle 
+{
+  text-transform: uppercase  ;
+  background-color:hsla(0, 0%, 40%, .5);
+  font-family: times roman;
+}
+
+.name
+{
+  font-family: times roman;
+  font-size: 60px;
+  text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
